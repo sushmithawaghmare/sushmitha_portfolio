@@ -1,0 +1,96 @@
+
+.bg-container {
+    background-color: #fdfd6c;
+    font-family: 'Sacramento', cursive;
+    padding: 60px;
+}
+
+.icon {
+    margin: 10px;
+    color: black;
+    font-size: 1.5rem;
+}
+
+.icon:hover {
+    color: #007bff;
+}
+.profile {
+    border-radius: 70%;
+    width: 70%;
+    max-width: 200px;
+}
+
+.para {
+    display: flex;
+    flex-direction: row;
+    font-size: 32px;
+    font-family: 'Sacramento', cursive;
+}
+
+.navbar-brand {
+    font-family: 'Sacramento', cursive;
+    font-size: 2rem;
+}
+
+.head {
+    font-size: 48px;
+    font-family: 'Sacramento', cursive;
+}
+.nav-item{
+    font-family: 'Sacramento', cursive;
+}
+.head-1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 25px;
+}
+.head-2 {
+    font-family: 'Sacramento', cursive;
+    font-size: 25px;
+}
+@media (max-width: 992px) {
+    .head {
+        font-size: 40px;
+        font-family: 'Sacramento', cursive;
+    }
+}
+
+@media (max-width: 768px) {
+    .navbar-brand {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 576px) {
+    .navbar-brand {
+        font-size: 1.2rem;
+    }
+}
+
+.aboutme{
+    font-family: 'Sacramento', cursive;
+}
+.para-1{
+    font-family: 'Sacramento', cursive;
+    font-size: 20px;
+}
+.academics-heading{
+    font-family: 'Sacramento', cursive;
+}
+th,tr,td{
+    font-family: 'Sacramento', cursive;
+}
+.projects-heading{
+    font-family: 'Sacramento', cursive;
+}
+.card-title,.card-text{
+    font-family: 'Sacramento', cursive;
+}
+.card-body{
+    border-radius: 8px;
+}
+.modal-body,.modal-title{
+    font-family: 'Sacramento', cursive;
+}
+.achievements-heading,.contact-heading{
+    font-family: 'Sacramento', cursive;
+}
